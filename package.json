@@ -4,7 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "fibonacci": "nodemon fibonacci.js",
+    "reverseString": "nodemon reverseString.js",
+    "minMax": "nodemon minMax.js",
+    "removeDuplicates": "nodemon removeDuplicates.js",
+    "isPalindrome": "nodemon isPalindrome.js",
+    "isPrime": "nodemon isPrime.js",
+    "factorial": "nodemon factorial.js",
+    "missingNumber": "nodemon missingNumber.js",
+    "anagrammer": "nodemon anagrammer.js",
+    "findVowels": "nodemon findVowels.js"
   },
   "author": "",
   "license": "ISC",
